@@ -6,7 +6,7 @@
 -- NEW COMMENT - testing db pipeline pt 5
 -- NEW COMMENT THE SEQUEL
 -- new comment the third
--- new 6
+-- new 7
 
 -- Dumped from database version 9.5.4
 -- Dumped by pg_dump version 9.5.4
